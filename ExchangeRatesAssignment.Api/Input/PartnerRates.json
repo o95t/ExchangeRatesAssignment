@@ -1,0 +1,163 @@
+[
+    {
+      "Currency": "MXN",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "cash",
+      "Rate": 16.78,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "MXN",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "deposit",
+      "Rate": 16.83,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "MXN",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "debit",
+      "Rate": 16.78,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "MXN",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "cash",
+      "Rate": 16.65,
+      "AcquiredDate": "2023-07-26T05:00:00.000Z"
+    },
+    {
+      "Currency": "MXN",
+      "PaymentMethod": "bankaccount",
+      "DeliveryMethod": "debit",
+      "Rate": 16.81,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "MXN",
+      "PaymentMethod": "bankaccount",
+      "DeliveryMethod": "deposit",
+      "Rate": 16.89,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "MXN",
+      "PaymentMethod": "cash",
+      "DeliveryMethod": "deposit",
+      "Rate": 16.79,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "MXN",
+      "PaymentMethod": "bankaccount",
+      "DeliveryMethod": "deposit",
+      "Rate": 16.89,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "PHP",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "cash",
+      "Rate": 57.14,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "PHP",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "deposit",
+      "Rate": 56.74,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "PHP",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "debit",
+      "Rate": 56.12,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "PHP",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "cash",
+      "Rate": 57.3,
+      "AcquiredDate": "2023-07-26T05:00:00.000Z"
+    },
+    {
+      "Currency": "PHP",
+      "PaymentMethod": "bankaccount",
+      "DeliveryMethod": "debit",
+      "Rate": 57.33,
+      "AcquiredDate": "2023-07-26T05:00:00.000Z"
+    },
+    {
+      "Currency": "PHP",
+      "PaymentMethod": "bankaccount",
+      "DeliveryMethod": "deposit",
+      "Rate": 57.79,
+      "AcquiredDate": "2023-07-26T05:00:00.000Z"
+    },
+    {
+      "Currency": "PHP",
+      "PaymentMethod": "bankaccount",
+      "DeliveryMethod": "cash",
+      "Rate": 57.63,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "PHP",
+      "PaymentMethod": "cash",
+      "DeliveryMethod": "cash",
+      "Rate": 57.22,
+      "AcquiredDate": "2023-07-26T05:00:00.000Z"
+    },
+    {
+      "Currency": "GTQ",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "deposit",
+      "Rate": 8.26,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "GTQ",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "debit",
+      "Rate": 8.08,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "GTQ",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "cash",
+      "Rate": 8.14,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "INR",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "cash",
+      "Rate": 81.72,
+      "AcquiredDate": "2023-07-26T05:00:00.000Z"
+    },
+    {
+      "Currency": "INR",
+      "PaymentMethod": "bankaccount",
+      "DeliveryMethod": "debit",
+      "Rate": 81.85,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "INR",
+      "PaymentMethod": "bankaccount",
+      "DeliveryMethod": "deposit",
+      "Rate": 81.83,
+      "AcquiredDate": "2023-07-26T05:00:00.000Z"
+    },
+    {
+      "Currency": "INR",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "cash",
+      "Rate": 81.63,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    }
+ ]
